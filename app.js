@@ -32,9 +32,9 @@ const questions = [
     {
         question: "Who is the current president of U.S.A",
         answers: [
-            { text: "Kamara Harris", correct: true },
+            { text: "Kamara Harris", correct: false },
             { text: "Bill Clinton", correct: false },
-            { text: "Donald Trump", correct: false },
+            { text: "Donald Trump", correct: true },
             { text: "Baraka Obama", correct: false }
 
         ]
